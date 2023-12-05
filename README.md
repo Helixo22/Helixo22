@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helixo22&label=Profile%20views&color=0e75b6&style=flat" alt="helixo22" /> </p>
 
-- 🔭 I’m currently working on **project0**
+- 🔭 I’m currently working on **Ecotask**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **capassoa2922@gmail.com**
 
