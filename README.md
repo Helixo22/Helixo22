@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **capassoa2922@gmail.com**
 
-- ⚡ Fun fact **The first-ever website, called the "World Wide Web Project," created by Tim Berners-Lee in 1991, is still online and operational. You can visit it at http://info.cern.ch/hypertext/WWW/TheProject.html.**
+- ⚡ My portfolio:alessio-capasso.web.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
