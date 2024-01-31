@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **capassoa2922@gmail.com**
 
-- ⚡ My portfolio
-**https://alessio-capasso.web.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
