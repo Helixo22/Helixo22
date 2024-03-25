@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helixo22&label=Profile%20views&color=0e75b6&style=flat" alt="helixo22" /> </p>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **TaskFroge**
 
 - 🌱 I’m currently learning **Python**
 
