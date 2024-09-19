@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact **The first computer bug was a real insect! In 1947, a moth was found stuck in a Harvard Mark II computer, causing a malfunction. That's how the term "debugging" was born! 🦋**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
