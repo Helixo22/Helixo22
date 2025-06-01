@@ -47,7 +47,8 @@
 
 ## 🌍 Progetti attivi
 
-🔗 [Visita HelpinTrip](https://helpintrip.es/)
-🔗 [Visita Nerdelements](https://nerdelements.com)
+1. 🔗 [HelpinTrip](https://helpintrip.es/)
+2. 🔗 [Nerdelements](https://nerdelements.com)
+
 
 ---
