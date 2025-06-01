@@ -25,9 +25,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" aria-label="Next.js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white; border-radius: 5px;"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" aria-label="Tailwind CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer" aria-label="Node.js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
