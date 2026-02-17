@@ -47,7 +47,7 @@
 
 ## 🌍 Progetti attivi
 
-1. 🔗 [HelpinTrip](https://helpintrip.es/)
+1. 🔗 [HelpinTrip](https://helpintrip.duckdns.org/)
 2. 🔗 [Nerdelements](https://nerdelements.com)
 
 
