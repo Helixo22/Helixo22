@@ -2,13 +2,9 @@
 <defs>
   <style>
     text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace; font-size: 15px }
-    @keyframes run { to { stroke-dashoffset: -100 } }
-    .run { animation: run 6s linear infinite }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
   </style>
 </defs>
 <rect x="1" y="1" width="558" height="130" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
-<rect class="run" x="1" y="1" width="558" height="130" rx="14" fill="none" stroke="#a78bfa" stroke-width="1.5" pathLength="100" stroke-dasharray="12 88" stroke-linecap="round"/>
 <text x="32" y="50" style="font-size:22px;font-weight:700" fill="#e6edf3">wp-penguin</text>
 <text x="32" y="80" fill="#7d8590">wallpaper engine on hyprland</text>
 <circle cx="38" cy="104" r="5" fill="#a78bfa"/>
