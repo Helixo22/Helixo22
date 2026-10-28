@@ -2,7 +2,5 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/Helixo22/wp-penguin"><img src="assets/card-wp-penguin.svg" alt="wp-penguin — wallpaper engine on hyprland" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Helixo22/Debt-Clock-and-Yield-Curve"><img src="assets/card-debt-clock.svg" alt="debt-clock — public debt & yield curves" width="100%"></a></td>
   </tr>
 </table>
